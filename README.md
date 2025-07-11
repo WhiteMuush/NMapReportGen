@@ -43,8 +43,4 @@ sudo ./nmapreportgen.sh
 
 ## Licence
 
-Licence MIT
-
----
-
-*Script par melvi*
+Le script est libre, faites ce que vous voulez ! Il n'y a aucune garantie ni responsabilité associée à son utilisation.
